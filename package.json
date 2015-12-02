@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/jacobbubu/reconnect-ws",
   "dependencies": {
-    "reconnect-core": "KurentoForks/reconnect-core",
+    "reconnect-core": "https://github.com/KurentoForks/reconnect-core/tarball/master",
     "websocket-stream": "~0.5.1"
   },
   "devDependencies": {
